@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/P11_ObjectOnMarker.unity
     guid: 01c59d32f8c8e8e44b2959c388f8cbf8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/P11_ObjectOnMarker_Kelompok.unity
     guid: fffc4ed7ce264a0449d9f1de4fd1d9df
+  - enabled: 1
+    path: Assets/Scenes/P12_ARInteraction.unity
+    guid: d48e0588f8943d64a83d07f0c4495390
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 24c77a44452553d45a912363869e32cb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
