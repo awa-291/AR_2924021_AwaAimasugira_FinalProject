@@ -1,0 +1,27 @@
+FREEZE SCOPE - PERTEMUAN 13
+Nama        : Awa Aimasugira
+NIM         : 2924021
+Project     : AR_2924021_AwaAimasugira_FinalProject
+Perangkat   : OPPO A58 (CPH2577)
+
+1. FITUR WAJIB DIPERTAHANKAN (FREEZE)
+- AR Session dan kamera ARCore berjalan normal.
+- Deteksi image marker melalui AR Tracked Image Manager.
+- Pemunculan prefab objek 3D (AR_HOME) tepat di atas marker.
+- Interaksi rotasi objek 3D.
+- Interaksi skala (zoom in/out) objek 3D.
+- Tombol UI informasi dan petunjuk penggunaan tampil di layar.
+- Audio / animasi (jika digunakan di project P12).
+
+2. KATEGORI PERBAIKAN (BOLEH DIKERJAKAN)
+- Menyesuaikan skala dan posisi awal objek 3D agar proporsional di atas marker.
+- Membatasi nilai minimal/maksimal scale agar objek tidak hilang atau terbalik.
+- Merapikan posisi/ukuran tombol UI agar tidak terpotong notch atau bar navigasi HP.
+- Mengompres texture atau menghapus asset/scene uji coba lama yang tidak terpakai.
+- Memperbaiki error merah atau warning penting di Console Unity.
+
+3. KATEGORI FITUR BARU (DIBEKUKAN / DILARANG)
+- Tidak menambah scene baru.
+- Tidak menambah sistem login atau database baru.
+- Tidak mengganti tema atau seluruh model 3D utama.
+- Tidak mengubah struktur framework AR Foundation / ARCore.
